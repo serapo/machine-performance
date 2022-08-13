@@ -1,0 +1,19 @@
+@import './variables';
+
+// .container{
+//     height: calc(100vh - 85px);
+//     margin: 0;
+//     // border:blue;
+//     // width: 100vw;
+
+// }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color:$back-ground;
+    height: calc(100vh - 82px);
+    
+}

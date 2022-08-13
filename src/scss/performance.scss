@@ -1,0 +1,41 @@
+@import './variables';
+
+span{
+    background-color: $back-ground;
+    color: white;
+    font-weight: 700;
+    padding-left : 5rem;
+}
+.quality {
+    background-color: $back-ground;
+    display: flex;
+    box-sizing: border-box;
+    padding-left : 5rem;
+    padding-right: 5rem;
+    font-size: 0.5;
+    line-height: 80%;
+   
+    
+    .sol{
+        width: 12rem;
+        float: inline-start;
+    }
+    .or{
+        width: 10rem;
+        float: inline-end;
+    }
+    .sag{
+       
+        float: inline-end;
+        border-radius: 50%;  
+        width:60px;
+        height: 60px;   
+        padding: 1rem;
+        margin: 0.5rem;
+     
+}
+
+}
+.circuular-chart.orange .circle {
+    stroke:red;
+  }
