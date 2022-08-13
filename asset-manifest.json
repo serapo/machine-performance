@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Machine-Performance/static/css/main.b97ed154.css",
+    "main.js": "/Machine-Performance/static/js/main.c4d0be1d.js",
+    "static/js/787.ec704a7a.chunk.js": "/Machine-Performance/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Machine-Performance/index.html",
+    "main.b97ed154.css.map": "/Machine-Performance/static/css/main.b97ed154.css.map",
+    "main.c4d0be1d.js.map": "/Machine-Performance/static/js/main.c4d0be1d.js.map",
+    "787.ec704a7a.chunk.js.map": "/Machine-Performance/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b97ed154.css",
+    "static/js/main.c4d0be1d.js"
+  ]
+}
